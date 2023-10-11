@@ -15,6 +15,6 @@ open tic-tac-toe.xcodeproj
  ```
 
 ## Demo
-[Link][(https://drive.google.com/file/d/1-ICgk26DUYFk8CtJRrKHlAUFd5fHW3NX/view?usp=sharing)
+[Link](https://drive.google.com/file/d/1-ICgk26DUYFk8CtJRrKHlAUFd5fHW3NX/view?usp=sharing)
 
 Happy coding! 🕊
